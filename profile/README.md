@@ -1,5 +1,3 @@
-# Welcome to Shipworthy
-
 Shipworthy is the home of **Journey**, an Elixir package for defining and running durable workflows.
 
 Journey provides PostgreSQL-backed persistence, horizontal scalability across application replicas, orchestration, retries, crash recovery, scheduling, introspection and analytics.
