@@ -1,24 +1,22 @@
-# Welcome to Shipworthy ⚓️
+# Welcome to Shipworthy
 
-**Reliable, distributed systems infrastructure for Elixir.**
+Shipworthy is the home of **Journey**, an Elixir library for defining and running durable workflows.
 
-Shipworthy is the home of **Journey**, a library that brings durable execution and resilient workflow orchestration natively to the BEAM. We build tools that help Elixir developers write complex, fault-tolerant business logic without managing external clusters.
+Journey provides PostgreSQL-backed persistence, horizontal scalability across application replicas, orchestration, retries, crash recovery, scheduling, introspection and analytics.
+
+Journey scales with your application. No cloud solutions to subscribe to or depend on. Nothing new to deploy and operate in your infrastructure, and your data stays with you, in your PostgreSQL database.
 
 ---
 
-### 🧭 The Ecosystem
+### Repos
 
-#### 🚀 The Core
-* **[Journey](https://github.com/shipworthy/journey)** – The main library. A native engine for defining and running durable workflows. If you are looking for the product, start here. The package is published on https://hexdocs.pm/journey
+* **[Journey](https://github.com/shipworthy/journey)** – an Elixir package for defining and running durable workflows. The package is published on https://hexdocs.pm/journey
 
-#### 💡 Reference Implementations and Demos
-* **[jour_dash](https://github.com/shipworthy/jour_dash)** – A full-scale **Reference Application**. It simulates a food delivery service (complex state, multiple actors) to demonstrate how to model real-world business graphs.
-* **[journey_horoscopes](https://github.com/shipworthy/journey_horoscopes)** – A lightweight "Hello World" example. Demonstrates how to connect Journey to a Phoenix LiveView front-end for reactive updates.
+* **[journey_horoscopes](https://github.com/shipworthy/journey_horoscopes)** – A LiveView "Hello World" example. A simple workflow that keeps a lot of UI state.
+* **[jour_dash](https://github.com/shipworthy/jour_dash)** – A LiveView application built with Journey that simulates a food delivery service. A more complex workflow.
 
-#### Blog Series
 
-We are documenting the process of building with Durable Workflows and Journey in a **[series on dev.to](https://dev.to/markmark/series/34410)**. The following repos accompany these articles:
-
+Repos used in the **[series on dev.to](https://dev.to/markmark/series/34410)** on building with Journey:
 * **[journey_introspect](https://github.com/shipworthy/journey_introspect)** – Visualization and debugging tools for inspecting running workflows.
 * **[useless_machine](https://github.com/shipworthy/useless_machine)** – A "useless" machine implementation. Just for fun, because engineers need hobbies too.
 
