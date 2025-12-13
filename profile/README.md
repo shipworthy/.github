@@ -37,8 +37,8 @@ We use Journey in production applications.
 
 Journey is **Source Available**.
 * **Free** for non-commercial use and small businesses (revenue <$10k/month).
-* **Commercial Licenses** available for larger production deployments.
+* **Commercial Build Key** available for larger production deployments.
 
 Journey Demos use MIT License.
 
-[Visit gojourney.dev for full docs and details →](https://gojourney.dev)
+Visit [gojourney.dev](https://gojourney.dev) for full docs and details.
