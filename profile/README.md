@@ -40,3 +40,6 @@ Journey is **Source Available**.
 Journey Demos use the MIT License.
 
 Visit [gojourney.dev](https://gojourney.dev) for full docs and details.
+
+---
+Built with 💙💛 in Seattle, WA.
