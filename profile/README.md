@@ -10,9 +10,9 @@ Journey scales with your application. No cloud solutions to subscribe to or depe
 
 ### Repos
 
-* **[Journey](https://github.com/shipworthy/journey)** – an Elixir package for defining and running durable workflows. The package is published on https://hexdocs.pm/journey
+* **[Journey](https://github.com/shipworthy/journey)** – an Elixir package for defining and running durable workflows. The package is published on [hexdocs.pm/journey](https://hexdocs.pm/journey)
 
-* **[journey_horoscopes](https://github.com/shipworthy/journey_horoscopes)** – A LiveView "Hello World" example. A simple workflow that keeps a lot of UI state.
+* **[journey_horoscopes](https://github.com/shipworthy/journey_horoscopes)** – A LiveView "Hello World" example. A simple workflow powering the web application's user experience.
 * **[jour_dash](https://github.com/shipworthy/jour_dash)** – A LiveView application built with Journey that simulates a food delivery service. A more complex workflow.
 
 Repos used in the **[dev.to series](https://dev.to/markmark/series/34410)** on building with Journey:
