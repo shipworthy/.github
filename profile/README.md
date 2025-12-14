@@ -37,6 +37,8 @@ Journey is **Source Available**.
 * **Free** for non-commercial use and small businesses (revenue <$10k/month).
 * **Commercial Build Keys** are available for other projects.
 
+Commercial and optional free build keys are available on [gojourney.dev/keys](https://gojourney.dev/keys).
+
 Journey Demos use the MIT License.
 
 Visit [gojourney.dev](https://gojourney.dev) for full docs and details.
