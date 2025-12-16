@@ -23,9 +23,9 @@ Repos used in the **[dev.to blog series](https://dev.to/markmark/series/34410)**
 
 Hi, I'm Mark. I am an engineer here in Seattle, WA.
 
-Journey exists because I wanted the power of durable execution engines (like Temporal or Cadence) but without the operational overhead of running dedicated clusters or subscribing (and shipping data) to "the cloud."
+I wanted the power of durable execution engines (like Temporal or Cadence) but without the overhead of running dedicated clusters or subscribing (and shipping data) to "the cloud."
 
-Which is what I built Journey to be: an Elixir package that handles the hard parts of distributed state – PostgreSQL-based persistence, retries, and crash recovery – so you can focus on your business logic.
+Journey is an Elixir package that provides durable workflows. It handles the hard parts of distributed state and computation (PostgreSQL-based persistence, retries, crash recovery) so you can focus on your business logic.
 
 We use Journey in production applications.
 
