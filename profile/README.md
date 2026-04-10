@@ -16,6 +16,7 @@ Journey scales with your application. No cloud solutions to subscribe to or depe
 Repos used in the **[dev.to blog series](https://dev.to/markmark/series/34410)** on building with Journey:
 * **[journey_introspect](https://github.com/shipworthy/journey_introspect)** – An example of introspecting a running workflow for "[The Mystery of a Missing Greeting](https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf)."
 * **[useless_machine](https://github.com/shipworthy/useless_machine)** – A Useless Machine implementation for "[Building a Useless Machine in Elixir](https://dev.to/markmark/building-a-useless-machine-in-elixir-42i1)."
+* **[recruit](https://github.com/shipworthy/recruit)** – A recruiting website that uses single-shot inference and an LLM to pre-screen submissions for "[Recruiting with AI and Elixir](https://dev.to/markmark/recruiting-with-ai-and-elixir-4cc5)."
 
 ---
 
