@@ -2,13 +2,13 @@ Shipworthy is the home of **Journey**, an Elixir package for defining and runnin
 
 Journey provides PostgreSQL-backed persistence, horizontal scalability across application replicas, orchestration, retries, crash recovery, scheduling, introspection and analytics.
 
-Journey scales with your application. No cloud solutions to subscribe to or depend on. Nothing new to deploy and operate in your infrastructure, and your data stays with you, in your PostgreSQL database.
+Journey scales with your application. No cloud solutions to subscribe to or depend on. Nothing new to deploy or operate. Your data stays in your PostgreSQL database.
 
 ---
 
 ### Repos
 
-* **[Journey](https://github.com/shipworthy/journey)** – an Elixir package for defining and running durable workflows. The package is published on [hexdocs.pm/journey](https://hexdocs.pm/journey)
+* **[Journey](https://github.com/shipworthy/journey)** – An Elixir package for defining and running durable workflows. The package is published on [hexdocs.pm/journey](https://hexdocs.pm/journey). More at [gojourney.dev](https://gojourney.dev).
 
 * **[journey_horoscopes](https://github.com/shipworthy/journey_horoscopes)** – A LiveView "Hello World" example. A simple workflow that manages state and logic behind the application's user experience. Running on [horoscopes.gojourney.dev](https://horoscopes.gojourney.dev).
 * **[jour_dash](https://github.com/shipworthy/jour_dash)** – A LiveView application built with Journey that simulates a food delivery service. A more complex workflow. Running on [jourdash.gojourney.dev](https://jourdash.gojourney.dev).
@@ -16,7 +16,7 @@ Journey scales with your application. No cloud solutions to subscribe to or depe
 Repos used in the **[dev.to blog series](https://dev.to/markmark/series/34410)** on building with Journey:
 * **[journey_introspect](https://github.com/shipworthy/journey_introspect)** – An example of introspecting a running workflow for "[The Mystery of a Missing Greeting](https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf)."
 * **[useless_machine](https://github.com/shipworthy/useless_machine)** – A Useless Machine implementation for "[Building a Useless Machine in Elixir](https://dev.to/markmark/building-a-useless-machine-in-elixir-42i1)."
-* **[recruit](https://github.com/shipworthy/recruit)** – A recruiting website that uses single-shot inference and an LLM to pre-screen submissions for "[Recruiting with AI and Elixir](https://dev.to/markmark/recruiting-with-ai-and-elixir-4cc5)."
+* **[recruit](https://github.com/shipworthy/recruit)** – A recruiting website that uses single-shot inference and an LLM to pre-screen submissions for "[Recruiting with AI and Elixir](https://dev.to/markmark/recruiting-with-ai-and-elixir-4cc5)." Run locally with Ollama.
 
 ---
 
