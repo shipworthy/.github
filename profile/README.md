@@ -12,7 +12,7 @@ Journey scales with your application. No cloud solutions to subscribe to or depe
 
 * **[journey_horoscopes](https://github.com/shipworthy/journey_horoscopes)** – A LiveView "Hello World" example. A simple workflow that manages state and logic behind the application's user experience. Running on [horoscopes.gojourney.dev](https://horoscopes.gojourney.dev).
 * **[jour_dash](https://github.com/shipworthy/jour_dash)** – A LiveView application built with Journey that simulates a food delivery service. A more complex workflow. Running on [jourdash.gojourney.dev](https://jourdash.gojourney.dev).
-* **[jobkin](https://github.com/shipworthy/jobkin)** (currently private) – A LiveView application built with Journey that assesses the fit between job description and a resume using an LLM [jobkin.org](https://jobkin.org).
+* **[jobkin](https://github.com/shipworthy/jobkin)** (currently private) – A LiveView application built with Journey that assesses the fit between job description and a resume using an LLM. Running on [jobkin.org](https://jobkin.org).
 
 Repos used in the **[dev.to blog series](https://dev.to/markmark/series/34410)** on building with Journey:
 * **[journey_introspect](https://github.com/shipworthy/journey_introspect)** – An example of introspecting a running workflow for "[The Mystery of a Missing Greeting](https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf)."
